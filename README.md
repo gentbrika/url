@@ -1,6 +1,5 @@
 # Url
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.<br/>
 This application helps you generate shorten URL's, also you can scan a generated QR Code for your URL.
 
 ## Install Packages
