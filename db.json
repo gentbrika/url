@@ -1,0 +1,22 @@
+{
+  "shortenedUrls": [
+    {
+      "websiteUrl": "https://gjirafa50.com/index.php?dispatch=categories.view&category_id=233&features_hash=961-1-100000000-EUR_12-408888",
+      "short": "http://localhost:4200/i5r8ws3mw",
+      "shortId": "i5r8ws3mw",
+      "id": 1
+    },
+    {
+      "websiteUrl": "https://gjirafa50.com/celulare-tablete-dhe-pajisje-smart/aksesore-per-celulare/?features_hash=961-1-100000000-EUR_985-207336_2041-135554&rel=2",
+      "short": "http://localhost:4200/2oy42nr86",
+      "shortId": "2oy42nr86",
+      "id": 2
+    },
+    {
+      "websiteUrl": "https://www.google.com",
+      "short": "http://localhost:4200/3rjupteye",
+      "shortId": "3rjupteye",
+      "id": 3
+    }
+  ]
+}
